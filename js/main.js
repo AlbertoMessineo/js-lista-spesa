@@ -9,6 +9,7 @@ while(i < listaSpesa.length){
     const elementList = document.createElement('li');
     lista.append(elementList);
     elementList.textContent = listaSpesa[i - 1]; 
+    elementList.classList.add("li-style");
 }
 
 console.log(listaSpesa);

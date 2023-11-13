@@ -9,12 +9,26 @@ body{
     background-size: cover;
     
 }
+header{
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    margin: 0 auto;
+    font-family: 'agbalumo';
+    color: rgb(235, 208, 113);
+}
 .list{
     width: 50%;
     list-style: none;
     margin: 30px auto;
     padding: 20px;
-    border: 1px solid red;
+    border: 5px solid rgb(252, 202, 169);
     border-radius: 10px;
     background-color: rgb(255, 196, 0);
+}
+.li-style{
+    padding: 10px 0;
+    font-family: 'agbalumo';
+    color: rgb(70, 48, 48);
 }
