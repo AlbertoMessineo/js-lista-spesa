@@ -6,3 +6,4 @@ let i = 0;
 while(i < listaSpesa.length - 1){
     i++;
 }
+console.log(listaSpesa);
